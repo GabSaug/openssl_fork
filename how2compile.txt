@@ -1,0 +1,2 @@
+./Configure --prefix="/home/gabriel/openssl/build/"
+make
