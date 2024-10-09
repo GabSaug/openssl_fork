@@ -1,3 +1,10 @@
+## KelpieEXPE usage
+
+run ```bash
+./config --prefix="/my/path"
+```
+And modify the Makefile to include EXTRA_CFLAGS as in Makefile.example
+
 Welcome to the OpenSSL Project
 ==============================
 
